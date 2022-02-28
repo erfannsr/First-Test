@@ -1,3 +1,8 @@
 hello again!
 
 this is the second chapter!
+
+
+I am adding some new lines to the file.
+
+Is it okay now?
